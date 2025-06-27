@@ -1,0 +1,8 @@
+streamlit
+pptx
+PyPDF2
+pandas
+transformers
+torch
+scikit-learn
+python-docx
