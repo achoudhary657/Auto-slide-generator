@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ignore Java class and source files
+*.class
+*.java
+
+# Ignore unrelated project folders
+missile-comparison-project/
+missile-jeopardy/
+RestaurantManagementSystem/
+
+# Ignore generated PowerPoint files
+*.pptx
+
+# Ignore VSCode settings and macOS system files
+.vscode/
+.DS_Store
